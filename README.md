@@ -1,13 +1,9 @@
-# Proje Başlığı
+#Veb proqramlaşdırma(front-end)
 
-Bu proje, `index.html` dosyasını içeren bir projedir.
 
-## HTML Dosyasına Link
-
-Aşağıdaki bağlantıya tıklayarak `index.html` dosyasını görüntüleyebilirsiniz:
+## HTML  Link
 
 [İndex.html dosyasını görüntüle](./index.html)
 
 ## Başka Bir Başlık
-
-Markdown içeriği burada.
+asd
