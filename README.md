@@ -1,9 +1,8 @@
-#Veb proqramlaşdırma(front-end)
+#Web programming(front-end)
+
+## HTML Link
+
+[View index.html file](./index.html) 
 
 
-## HTML  Link
 
-[İndex.html dosyasını görüntüle](./index.html)
-
-## Başka Bir Başlık
-asd
