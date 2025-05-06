@@ -3,7 +3,7 @@
 ## HTML Link
 
 [View index.html file](./index.html) 
-[View index.html file](./style.css) 
+[View style.css file](./style.css) 
 
 
 
